@@ -1003,6 +1003,11 @@ export const projects = [
     stack: [
       {
         id: "icon-3",
+        icon: SiSelenium,
+        name: "Selenium"
+      },,
+      {
+        id: "icon-3",
         icon: SiPrometheus,
         name: "Prometheus"
       },
