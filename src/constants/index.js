@@ -1592,7 +1592,7 @@ export const aboutMe = {
     name: "AI/ML | Chatbot | Data Science| Automation",
     githubUsername: 'mittal-parth',
     // tagLine: "MTS-1 @Oracle | ex-SDE Intern @Averlon | ex-Tech Lead @IRIS,NITK | ETHIndia'22 Winner | NITK'24",
-    intro: "Developer from Malaysia who is either busy improving his craft or pondering over the next big idea. I specialize in AI/ML model development, implementing and automating AI solutions on different platforms, and data science."
+    intro: "Developer who is either busy improving his craft or pondering over the next big idea. I specialize in AI/ML model development, implementing and automating AI solutions on different platforms, and data science."
 }
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
